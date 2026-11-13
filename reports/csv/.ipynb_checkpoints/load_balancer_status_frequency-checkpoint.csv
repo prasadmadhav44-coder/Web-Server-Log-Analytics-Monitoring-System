@@ -1,0 +1,4 @@
+load_balancer_status_code,request_count
+304,186
+200,115
+404,43

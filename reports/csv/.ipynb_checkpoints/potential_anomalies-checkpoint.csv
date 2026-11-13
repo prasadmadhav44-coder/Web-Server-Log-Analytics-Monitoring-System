@@ -1,0 +1,18 @@
+kind,time,value,threshold,rule
+high_request_volume_minute,2021-10-05 23:59:00+00:00,100.0,97.6,minute count above observed 95th percentile
+slow_target_processing,2021-10-05 23:55:39.989060+00:00,0.085,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:55:55.979750+00:00,0.014,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:55:43.775235+00:00,0.009,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:56:34.561340+00:00,0.01,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:56:44.370576+00:00,0.01,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:56:56.796006+00:00,0.092,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:57:21.937888+00:00,0.086,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:58:14.994457+00:00,0.008,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:58:29.204339+00:00,0.01,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:58:52.002857+00:00,0.011,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:59:05.876118+00:00,0.058,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:59:07.831973+00:00,0.015,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:59:25.354578+00:00,0.011,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:59:26.667053+00:00,0.01,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:59:37.109960+00:00,0.085,0.006,target time above observed 95th percentile
+slow_target_processing,2021-10-05 23:59:11.157504+00:00,0.007,0.006,target time above observed 95th percentile

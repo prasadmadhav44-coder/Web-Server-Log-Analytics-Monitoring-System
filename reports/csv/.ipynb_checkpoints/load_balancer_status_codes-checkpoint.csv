@@ -1,0 +1,4 @@
+status_code,requests,category
+200,115,success
+304,186,not_modified
+404,43,client_error

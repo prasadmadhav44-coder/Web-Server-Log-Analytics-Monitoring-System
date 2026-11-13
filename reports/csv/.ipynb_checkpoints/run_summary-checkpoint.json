@@ -1,0 +1,41 @@
+{
+  "input_file": "C:\\projects\\Python Project\\mylog.log",
+  "parsed_records": 344,
+  "invalid_records": 0,
+  "traffic": {
+    "total_requests": 344,
+    "unique_client_ips": 7,
+    "time_start_utc": "2021-10-05T23:55:13.192364+00:00",
+    "time_end_utc": "2021-10-05T23:59:57.604600+00:00"
+  },
+  "status_analysis": {
+    "load_balancer_counts": {
+      "304": 186,
+      "200": 115,
+      "404": 43
+    },
+    "target_counts": {
+      "304": 186,
+      "200": 115,
+      "404": 43
+    },
+    "successful_2xx": 115,
+    "redirect_responses": 0,
+    "not_modified_304": 186,
+    "client_errors_4xx": 43,
+    "server_errors_5xx": 0,
+    "success_percent": 33.43,
+    "error_percent": 12.5
+  },
+  "anomaly_review_flags": 17,
+  "charts_created": [
+    "status_code_distribution.png",
+    "requests_over_time.png",
+    "top_client_ips.png",
+    "request_processing_time_histogram.png",
+    "processing_time_comparison.png",
+    "requests_by_hour.png",
+    "successful_vs_other_responses.png",
+    "response_size_histogram.png"
+  ]
+}
